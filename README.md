@@ -5,7 +5,8 @@
 This project analyzes road accident data to identify accident trends, high-risk areas, and severity patterns. The goal is to generate actionable safety insights and build a data-driven dashboard for visual storytelling.
 
 ---
-https://github.com/o-zab/FUTURE_DS_03/blob/d626195ed1c2079ef96c29139dd41a79c666afc5/outputs/Road%20Accident%20Analysis%20Dashboard.png
+![alt_text](https://github.com/o-zab/FUTURE_DS_03/blob/d626195ed1c2079ef96c29139dd41a79c666afc5/outputs/Road%20Accident%20Analysis%20Dashboard.png)
+
 
 ## Skills Applied
 - Data Cleaning & Wrangling (Pandas)
